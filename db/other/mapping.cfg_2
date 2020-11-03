@@ -1,0 +1,28 @@
+  /home/clasrun/PRad/GemView/db:
+  total used in directory 4703108 available 90149312
+  drwxr-xr-x 2 clasrun onliners       4096 May 13 20:22 .
+  drwxr-xr-x 6 clasrun onliners       4096 May 13 16:08 ..
+  -rw-r--r-- 1 clasrun onliners       4364 May 10 18:03 amore_prd.cfg
+  -rw-r--r-- 1 clasrun onliners       4685 May 10 18:03 LeftGemMap.cfg
+  -rw-rw-r-- 1 clasrun onliners   49610752 May 13 00:27 log.txt
+  -rw-r--r-- 1 clasrun onliners       6205 May 10 18:03 map.cfg
+  -rw-r--r-- 1 clasrun onliners       6313 May 10 18:03 mapping1.cfg
+  lrwxrwxrwx 1 clasrun onliners         42 May 13 20:21 .#mapping.cfg -> clasrun@clonpc13.jlab.org.20330:1453909254
+  -rw-r--r-- 1 clasrun onliners       7089 May 13 20:25 #mapping.cfg#
+  -rw-r--r-- 1 clasrun onliners       8995 May 13 20:13 mapping.cfg
+  -rw-r--r-- 1 clasrun onliners  119242752 May 10 18:03 online1127.dat
+  -rw-r--r-- 1 clasrun onliners  147488768 May 10 18:03 online1225.dat
+  -rw-r--r-- 1 clasrun onliners   55934976 May 10 18:03 online1235.dat
+  -rw-r--r-- 1 clasrun onliners   55869440 May 10 18:03 online1237.dat
+  -rw-r--r-- 1 clasrun onliners  551256064 May 10 18:03 physics_online1586.dat
+  -rw-r--r-- 1 clasrun onliners        276 May 13 16:17 PRad.cfg
+  -rw-r--r-- 1 clasrun onliners       4364 May 10 18:03 PRad.cfg~
+  -rw-r--r-- 1 clasrun onliners        246 May 10 19:32 PRad.cfg.~1~
+  -rw-rw-r-- 1 clasrun onliners 2145050540 May 13 00:07 srs_000222.evio.0
+  -rw-rw-r-- 1 clasrun onliners 1546292240 May 13 16:16 srs_000245.evio.0
+  -rw-r--r-- 1 clasrun onliners   11698176 May 10 18:03 SRS_1043.evio
+  -rw-r--r-- 1 clasrun onliners   11272192 May 10 18:03 SRS_1044.evio
+  -rw-r--r-- 1 clasrun onliners          0 May 10 18:03 SRS_1045.evio
+  -rw-r--r-- 1 clasrun onliners   11141120 May 10 18:03 SRS_1046.evio
+  -rw-r--r-- 1 clasrun onliners   92078080 May 10 18:03 test_99.dat
+  -rw-r--r-- 1 clasrun onliners       8409 May 10 18:03 testmap.cfg

@@ -1,5 +1,6 @@
 #ifndef __GEMPEDESTAL_H__
 #define __GEMPEDESTAL_H__
+
 #include <fstream>
 #include <unordered_map>
 #include <map>
@@ -37,7 +38,7 @@ private:
 
     TString fPedFileName;
 
-    ifstream file;
+    std::ifstream file;
 
     std::vector<TH1F*> vStripOffsetHistos;
     std::vector<TH1F*> vStripNoiseHistos;

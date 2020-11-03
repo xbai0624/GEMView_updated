@@ -13,7 +13,12 @@ OBJECTS_DIR = obj
 
 INCLUDEPATH += . ./include ${ROOTSYS}/include
 
-LIBS += -L${ROOTSYS}/lib -lCore -lCint -lRIO -lNet \
+#LIBS += -L${ROOTSYS}/lib -lCore -lCint -lRIO -lNet \
+#	-lHist -lGraf -lGraf3d -lGpad -lTree \
+#	-lRint -lPostscript -lMatrix -lPhysics \
+#	-lGui -lRGL
+
+LIBS += -L${ROOTSYS}/lib -lCore -lRIO -lNet \
 	-lHist -lGraf -lGraf3d -lGpad -lTree \
 	-lRint -lPostscript -lMatrix -lPhysics \
 	-lGui -lRGL
